@@ -99,7 +99,7 @@ async function compressImage(file) {
 }
 
 // ─── Constants ──────────────────────────────────────────────────────────────
-const WORKER_URL = "https://nutriai-worker.wtbbiealtm18.workers.dev/";
+const WORKER_URL = "https://nutriai-worker-image-recognition.wtbbiealtm18.workers.dev/";
 
 const EXAMPLES = [
   { icon: "🍳", label: "Eggs & toast",      meal: "Two fried eggs with buttered whole wheat toast and a glass of orange juice" },
